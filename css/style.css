@@ -1,0 +1,235 @@
+ body {
+ 	font-family: Avenir Next LT Pro;
+ 	padding: 0;
+ 	margin: 0;
+ }
+ #login {
+  height: 100%;
+  width:  100%;
+  background-color: #f5f8fa;
+} 
+#login .head {
+    height: 60px;
+    width: 100%;
+    background-color: #2b2c31;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.05);
+}
+.logo{
+	width: 80px;
+  	height: 20px;
+	margin: auto;
+	padding: 12px 0;
+}
+.container p {
+	width: 527px;
+	height: 49px;
+	font-family: Avenir Next LT Pro;
+    font-size: 30px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.63;
+    letter-spacing: 1.1px;
+    text-align: center;
+    color: #5d7888;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+.form {
+	width: 381px;
+    height: 419px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.05);
+    margin: 0 auto;
+}
+.input {
+	padding: 47px	0;
+	margin: auto;
+	width: 301px;
+}
+.input .usser {
+	width: 272px;
+    height: 51px;
+    border-radius: 3px;
+    background-color: #ffffff;
+    border: solid 1px #e7ebf0;
+    padding-left: 29px;
+    font-family: Avenir Next LT Pro;
+    font-size: 14px;
+    font-weight: medium;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.3px;
+    text-align: left;
+    color: #9dabbc;
+}
+.input .pass {
+	width: 272px;
+    height: 51px;
+    border-radius: 3px;
+    background-color: #ffffff;
+    border: solid 1px #e7ebf0;
+    padding-left: 29px;
+    font-family: Avenir Next LT Pro;
+    font-size: 14px;
+    font-weight: medium;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.3px;
+    text-align: left;
+    color: #9dabbc;
+}
+.kepo {
+	width: 226px;
+	margin: 0 auto;
+	padding: 5px 0; 
+}
+.input .masuk {
+	width: 301px;
+    height: 50px;
+    border:0;
+    border-radius: 5px ;
+    background-color: #fd4750;
+    font-family: Avenir Next LT Pro;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    text-align: center;
+    color: #ffffff;
+    cursor: pointer;
+}
+.input .masuk:hover,.input .masuk:active,.input .masuk:focus {
+  background: #FC1622;
+  transition: 0.2s;
+ } 
+.forgot {
+	width: 100px;
+    height: 16px;
+    float: right;
+    padding: 10px 0;
+}
+.forgot a {
+	width: 100px;
+    height: 16px;
+    font-family: Avenir Next LT Pro;
+    font-size: 12px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #f15642;
+    text-decoration: none;
+}
+.clear {
+	height: 50px;
+	width: 301px;
+}
+.tombol {
+	width: 238px;
+    height: 44px;
+    border-radius: 3px;
+    background-color: #f5f8fa;
+    margin: 0 auto;
+}
+.tombol .siswa {
+    border: none;
+    cursor: pointer;
+    width: 110px;
+    height: 34px;
+    border-radius: 3px;
+    background-color: #fd4750;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.05);
+    font-family: Avenir Next LT Pro;
+    font-size: 12px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+.tombol .guru {
+	border:none;
+	font-family: Avenir Next LT Pro;
+    font-size: 12px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #5d7888;
+	cursor: pointer;
+	width: 110px;
+    height: 34px;
+    border-radius: 3px;
+    background-color: #ffffff;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.05);
+}
+.line {
+	padding: 104px 0;
+	margin: 0 auto;
+	background-color: #f5f8fa;
+	height: 1px;
+}
+.line hr {
+	width: 1242px;
+	color: #e1e7ed;
+    border: solid 1px #e1e7ed;
+}
+.footer {
+	padding-left: 100px;
+	width: 300px;
+	margin: 0 auto;
+}
+.line .footer {
+    height: 5px;
+    background-color: #f5f8fa;
+}
+.kata {
+    height: 17px;
+    font-family: Avenir Next LT Pro;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #9dabbc;
+    margin: 0 auto;
+}
+.footer img{
+	width: 10px;
+    height: 9px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 20px;
+}
+.footer a {
+    width: 92px;
+    height: 17px;
+    font-family: width: 301px;
+    height: 50px;
+    border:0;
+    border-radius: 5px ;
+    font-family: Avenir Next LT Pro;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    text-align: center;
+    color: #70b3fe;
+}

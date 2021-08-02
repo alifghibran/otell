@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="40 455 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eecc51;
+      }
+    </style>
+  </defs>
+  <g id="medall" transform="translate(23.169 455)">
+    <g id="Group_3" data-name="Group 3" transform="translate(31.853 15.537)">
+      <g id="Group_2" data-name="Group 2" transform="translate(0)">
+        <path id="Path_17" data-name="Path 17" class="cls-1" d="M304.1,312.351l-3.191-6.394a11.9,11.9,0,0,1-7.7,4.622l2.672,5.352a.932.932,0,0,0,1.674-.068l1.369-3.514.282-.123,3.762,1.279A.874.874,0,0,0,304.1,312.351Z" transform="translate(-293.208 -305.957)"/>
+      </g>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(19.856)">
+      <g id="Group_4" data-name="Group 4" transform="translate(0)">
+        <path id="Path_18" data-name="Path 18" class="cls-1" d="M82.46,0c-5.5,0-9.975,4.181-9.975,9.319s4.475,9.319,9.975,9.319,9.975-4.181,9.975-9.319S87.96,0,82.46,0Zm4.854,8.634-1.769,1.611.418,2.275a.9.9,0,0,1-1.316.893L82.46,12.34l-2.187,1.074a.9.9,0,0,1-1.316-.893l.418-2.275L77.607,8.634a.834.834,0,0,1,.5-1.445l2.445-.332,1.093-2.069a.937.937,0,0,1,1.626,0l1.093,2.069,2.445.332A.834.834,0,0,1,87.314,8.634Z" transform="translate(-72.485)"/>
+      </g>
+    </g>
+    <g id="Group_7" data-name="Group 7" transform="translate(16.831 15.537)">
+      <g id="Group_6" data-name="Group 6" transform="translate(0)">
+        <path id="Path_19" data-name="Path 19" class="cls-1" d="M20.11,305.957l-3.191,6.394a.874.874,0,0,0,1.132,1.154l3.762-1.279.282.123,1.369,3.514a.932.932,0,0,0,1.674.068l2.672-5.352A11.9,11.9,0,0,1,20.11,305.957Z" transform="translate(-16.831 -305.957)"/>
+      </g>
+    </g>
+  </g>
+</svg>

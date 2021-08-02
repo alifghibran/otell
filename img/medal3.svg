@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="28" viewBox="0 0 26 28">
+    <defs>
+        <linearGradient id="a" x1="50%" x2="50%" y1="154.175%" y2="-19.237%">
+            <stop offset="0%" stop-color="#CF5C00"/>
+            <stop offset="100%" stop-color="#D5B99A"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="url(#a)" fill-rule="nonzero" d="M13 5c-3.308 0-6 2.692-6 6s2.692 6 6 6 6-2.692 6-6-2.692-6-6-6z"/>
+        <text fill="#FFF" font-family="AvenirNext-Heavy, Avenir Next" font-size="8" font-weight="600" letter-spacing=".36">
+            <tspan x="10" y="14">3</tspan>
+        </text>
+        <path fill="url(#a)" fill-rule="nonzero" d="M13 0C6.935 0 2 4.978 2 11.028 2 17.078 6.935 22 13 22s11-4.922 11-10.972S19.065 0 13 0zm0 18.624c-4.2 0-7.615-3.407-7.615-7.596C5.385 6.84 8.8 3.432 13 3.432c4.2 0 7.615 3.408 7.615 7.596 0 4.189-3.416 7.596-7.615 7.596zM25.921 24.032L23.046 18A12.61 12.61 0 0 1 16 22.636l2.319 4.89a.84.84 0 0 0 .76.474h.037a.837.837 0 0 0 .751-.54l1.336-3.617 3.671 1.307a.85.85 0 0 0 .906-.217c.229-.245.285-.6.141-.901z"/>
+        <path fill="url(#a)" fill-rule="nonzero" d="M2.954 18L.08 24.032a.807.807 0 0 0 .141.901c.23.245.59.333.906.217l3.67-1.307 1.337 3.617a.837.837 0 0 0 .788.54.84.84 0 0 0 .76-.474L10 22.636A12.61 12.61 0 0 1 2.954 18z"/>
+    </g>
+</svg>

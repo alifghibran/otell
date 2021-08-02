@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> OTELL | Tugas </title>
+	<link rel="shoetcut icon" href="img/blondo.png">
+	<link rel="stylesheet" type="text/css" href="css/stylehistori.css">
+</head>
+<body>
+	<div id="background">
+	<div class="header-atas">
+		<input type="search" value="" placeholder="Search" class="search-input">
+		<img src="img/otel.png">
+		<div class="menu-atas">
+			<ul>
+				<li class="panah"><a href="#"><img src="img/arah.svg"></a></li>
+				<li class="profile"><a href="#"><img  src="img/foto.png"></a></li>
+				<li class="icon"><a href="#"><img  src="img/notif.svg"></a></li>
+				<li class="icon"><a href="#"><img src="img/pt.svg"></a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="header-kiri">
+		<div class="menu-kiri">
+			<div class="burger">
+			 	<a href="#"><img src="img/menu.svg"></a>
+			</div>
+			<ul>
+				<li><a href="beranda.html"><img src="img/beranda.svg"></a></li>
+				<li><a href="upluttugass.html"><img src="img/iccoon.svg"></a></li>
+				<li><a href="quiz.html"><img src="img/task.svg"></a></li>
+				<li><a href="#"><img src="img/hadiah.svg"></a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="pesan-tugas-guru">
+		<p>Pesan Guru</p>
+		<span>Tugas</span>
+	</div>
+	<div class="pesan-guru">
+		<img src="img/orang.png">
+		<p>Ahmad Soekarni</p>
+		<span>28 Jan 2018, 09.00pm</span>
+		<div class="isi-pesan">
+			<p>Kalo mau upload, harus berformat pdf, jangan sampai lupa ya anak-anak! <br/>
+			Terimakasih.</p>
+		</div>
+	</div>
+	<div class="pesan-guru-2">
+		<img src="img/orang.png">
+		<p>Bejo Sunandar</p>
+		<span>28 Jan 2018, 09.00pm</span>
+		<div class="isi-pesan-2">
+			<p>Kalo mau upload, harus berformat pdf, jangan sampai lupa ya anak-anak! <br/>
+			Terimakasih.</p>
+		</div>
+		<div class="isi-pesan-2">
+			<p>Kalo mau upload, harus berformat pdf, jangan sampai lupa ya anak-anak! <br/>
+			Terimakasih.</p>
+		</div>
+	</div>
+	<div class="tugas-murid">
+		<div class="nav">
+			<a class="uplut" href="upluttugass.html"> Upload </a>
+			<a class="donlot" href="donlottugas.html"> Download </a>
+			<a class="histori" href="histori.html"> History </a>
+		</div>
+		<hr>
+		<div class="box-rank">
+				<div class="box-rank-list">
+					<ul class="box-rank-list-ul">
+						<li class="tugas1">
+							<img src="img/pdf.svg">
+							<p> pmg01_xirpl1_08.pdf </p>
+							<h4>PMG</h4>
+							<h5>22/08/2018, 19.20 PM</h5>
+						</li>
+						<li class="tugas2">
+							<img src="img/pdf.svg">
+							<p> mtk01_xirpl1_08.pdf </p>
+							<h4>MTK</h4>
+							<h5>22/08/2018, 19.20 PM</h5>
+						</li>
+						<li class="tugas1">
+							<img src="img/pdf.svg">
+							<p> pk101_xirpl1_08.pdf </p>
+							<h4>PK1</h4>
+							<h5>22/08/2018, 19.20 PM</h5>
+						</li>
+						<li class="tugas1">
+							<img src="img/pdf.svg">
+							<p> pk201_xirpl1_08.pdf </p>
+							<h4>PK2</h4>
+							<h5>22/08/2018, 19.20 PM</h5>
+						</li>
+						<li class="tugas2">
+							<img src="img/pdf.svg">
+							<p> kwu01_xirpl1_08.pdf </p>
+							<h4>KWU</h4>
+							<h5>22/08/2018, 19.20 PM</h5>
+						</li>
+						<li class="tugas1">
+							<img src="img/pdf.svg">
+							<p> pk301_xirpl1_08.pdf </p>
+							<h4>PK4</h4>
+							<h5>22/08/2018, 19.20 PM</h5>
+						</li>
+						<li class="tugas2">
+							<img src="img/pdf.svg">
+							<p> pai01_xirpl1_08.pdf </p>
+							<h4>PAI</h4>
+							<h5>22/08/2018, 19.20 PM</h5>
+						</li>
+						<li class="tugas1">
+							<img src="img/pdf.svg">
+							<p> pk501_xirpl1_08.pdf </p>
+							<h4>PK5</h4>
+							<h5>22/08/2018, 19.20 PM</h5>
+						</li>
+						<li class="tugas2">
+							<img src="img/pdf.svg">
+							<p> ind01_xirpl1_08.pdf </p>
+							<h4>IND</h4>
+							<h5>22/08/2018, 19.20 PM</h5>
+						</li>
+					</ul>
+				</div>
+			</div>
+	</div>
+</div>
+</body>
+<script type="text/javascript">
+	var mincount = 4;
+	var maxcount = 10;
+
+$(".box-rank-list-ul li").slice(4).hide();
+
+$(".box-rank-list").scroll(function() {
+
+  if($(".box-rank-list").scrollTop() + $(".box-rank-list").height() >= $(".box-rank-list")[0].scrollHeight) {
+    
+    $(".box-rank-list-ul li").slice(mincount,maxcount).fadeIn(10);
+
+    mincount = mincount+5;
+    maxcount = maxcount+5;
+
+  }
+});
+</script>
+</html>

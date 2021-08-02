@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="28px" viewBox="0 0 26 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>76F71D01-85B4-4610-8E9A-47A0502C28F8</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-33.1017625%" x2="50%" y2="146.710868%" id="linearGradient-1">
+            <stop stop-color="#EAE8E1" offset="0%"></stop>
+            <stop stop-color="#B1AC9B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Beranda-(murid)" transform="translate(-904.000000, -575.000000)">
+            <g id="Group-4" transform="translate(187.000000, 182.000000)">
+                <g id="Group-16" transform="translate(687.000000, 138.000000)">
+                    <g id="Group-15" transform="translate(0.000000, 47.000000)">
+                        <g id="Group-14-Copy" transform="translate(0.000000, 183.000000)">
+                            <g id="Group-13" transform="translate(30.000000, 20.000000)">
+                                <g id="Group-11">
+                                    <g id="003-medal-copy" transform="translate(0.000000, 5.000000)">
+                                        <path d="M13,5 C9.69194286,5 7,7.69194286 7,11 C7,14.3080571 9.69194286,17 13,17 C16.3080571,17 19,14.3080571 19,11 C19,7.69194286 16.3080571,5 13,5 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                                        <text id="2" font-family="AvenirNext-Heavy, Avenir Next" font-size="8" font-weight="600" letter-spacing="0.360000014" fill="#FFFFFF">
+                                            <tspan x="10" y="14">2</tspan>
+                                        </text>
+                                        <path d="M13,0 C6.93476923,0 2,4.97841432 2,11.028133 C2,17.0778517 6.93476923,22 13,22 C19.0652308,22 24,17.0778517 24,11.028133 C24,4.97841432 19.0652308,0 13,0 Z M13,18.6240409 C8.80065128,18.6240409 5.38461538,15.2167417 5.38461538,11.028133 C5.38461538,6.8395243 8.80065128,3.43222506 13,3.43222506 C17.1993487,3.43222506 20.6153846,6.8395243 20.6153846,11.028133 C20.6153846,15.2167417 17.1993487,18.6240409 13,18.6240409 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                                        <path d="M25.9213237,24.031858 L23.0457268,18 C21.33918,20.2617348 18.8664261,21.9283194 16,22.6357714 L18.3189756,27.5264508 C18.457432,27.8165318 18.7539164,28 19.0791433,28 C19.0914456,28 19.1036919,28 19.1159942,27.9991795 C19.4543063,27.9847383 19.7516295,27.7716221 19.8671589,27.459934 L21.2031282,23.8427009 L24.8744575,25.1496245 C25.1939248,25.2642237 25.5510817,25.1768657 25.7796241,24.9332808 C26.0090053,24.6881096 26.064701,24.3330981 25.9213237,24.031858 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                                        <path d="M2.95422912,18 L0.0786370843,24.0318033 C-0.0646839798,24.3330981 -0.00898839655,24.6880549 0.22033649,24.9332261 C0.450500165,25.1776315 0.809278139,25.2657553 1.12550156,25.1495698 L4.79682467,23.8427009 L6.13284764,27.459934 C6.24832091,27.7716221 6.54569954,27.984793 6.88401106,27.9991795 C6.8963133,28 6.90855961,28 6.92086185,28 C7.24603235,28 7.54257219,27.8165318 7.68102828,27.5264508 L10,22.6357714 C7.1335228,21.9283194 4.66077311,20.2617348 2.95422912,18 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
